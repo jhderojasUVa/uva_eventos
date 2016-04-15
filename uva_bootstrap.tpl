@@ -18,8 +18,6 @@
 	<!-- Latest compiled and minified JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
-	<!-- estilos forzados -->
-	<link href="/turbine/css.php?files=reset.cssp;fonts.cssp;common.cssp;plugins/msgbox.cssp;plugins/fake_label.cssp;jquery-ui/base/ui.core.cssp;jquery-ui/base/ui.theme.cssp;jquery-ui/base/ui.datepicker.cssp;plugins/humanmsg.cssp;widgets/contact_form.cssp;event_detail/tickets.cssp;templates/classic.cssp" type="text/css" rel="stylesheet" />
 	<!-- JS forzado -->
 	<script type="text/javascript" src="js/script.js"></script>
 	<!-- estilos UVa -->
