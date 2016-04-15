@@ -40,7 +40,7 @@
                   {{ OVERLAYS }}
                 {{ BODY SUBHEADER CLOSING }}
 								<div class="imagen_uva">
-									<a href="http://wwww.uva.es" title="Universidad de Valladolid"><img src="assets/logo_uva.png" alt="Universidad de Valladolid" style="width:100%;"/></a>
+									<a href="http://wwww.uva.es" title="Universidad de Valladolid"><img src="assets/logo_uva.png" alt="Universidad de Valladolid" /></a>
 								</div>
           {{ EVENT MENU OPENING }}
                {{ EVENT MENU ITEMS }}

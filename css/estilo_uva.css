@@ -29,9 +29,9 @@ body.event_detail #event_menu ul#event_menu_list li .current, body.event_detail 
 
 /* Imagen UVa */
 .imagen_uva {
-  width: 100%;
+  width: 960px;
 }
 
 .imagen_uva img {
-  width: 100%;
+  width: 960px;
 }
