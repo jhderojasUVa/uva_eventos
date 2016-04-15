@@ -1,5 +1,5 @@
 Template de UVa Eventos
-version 0.1 alpha
+version 0.11 alpha
 15/04/2016
 
 Area Web - soporte-web@uva.es
@@ -22,7 +22,7 @@ readme.txt - Este fichero (por si no te habias dado cuenta)
 
 Descripcion del template
 ========================
-Template hecho con bootstrap (una parte) cogido del CDN y JQuery de Google. Se ha añadido 
+Template hecho con bootstrap (una parte) cogido del CDN y JQuery de Google. Se ha añadido
 un estilo full-width para todo el ancho de modo que tener imagenes y fondos que ocupan todo el.
 
 Se han redefinido algunos estilos que crea SYMPOSIUM para adecuarlos.
